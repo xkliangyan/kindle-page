@@ -39,7 +39,7 @@ table {
 th, td {
     padding: 1em;
     border: 1px solid #ddd;
-    text-align: center;
+    text-align: center; /* 设置单元格文本居中 */
 }
 
 th {
